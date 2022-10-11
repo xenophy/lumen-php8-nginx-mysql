@@ -1,1 +1,1 @@
-# lumen-php8-nginx-mysql
+# php8-nginx-mysql
